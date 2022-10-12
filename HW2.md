@@ -1,7 +1,9 @@
 # HW2
 
 The following are my maps that I created for this assignment:
-https://drive.google.com/drive/folders/1Dnm4GV0MWoPvg4Vufi1ux9w8i_wZnP1b?usp=sharing
+![alt text](https://user-images.githubusercontent.com/60870074/195219524-e356d36e-85c3-40ad-8317-c409513042e5.png "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/60870074/195219532-dd4d1f2e-d934-4023-99cc-2e3dcd994e81.png "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/60870074/195219579-2004ba29-efed-4d7a-8177-f6f2403d4745.png "Logo Title Text 1")
 You can also view them in my wiki.
 
 Which areas of Manhattan had the largest number of 311 noise complaints? What are some reasons you can think of for these trends?
