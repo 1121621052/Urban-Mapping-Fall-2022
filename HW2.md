@@ -19,4 +19,4 @@ How did the additional data and map changed or reinforced your insights from Q(1
   areas have the highest population density.
   
   
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/60870074/195219524-e356d36e-85c3-40ad-8317-c409513042e5.png "Logo Title Text 1")
