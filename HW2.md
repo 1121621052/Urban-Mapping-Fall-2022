@@ -19,4 +19,4 @@ How did the additional data and map changed or reinforced your insights from Q(1
   areas have the highest population density.
   
   
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://github.com/1121621052/Urban-Mapping-Fall-2022/wiki) "Logo Title Text 1")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
