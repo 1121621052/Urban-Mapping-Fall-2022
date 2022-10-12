@@ -20,5 +20,3 @@ How did the additional data and map changed or reinforced your insights from Q(1
   After I add the population data of Manhattan, it reinforced my insights from Q1. there are much residents in those areas and the upper manhattam areas seems to be the
   areas have the highest population density.
   
-  
-![alt text](https://user-images.githubusercontent.com/60870074/195219524-e356d36e-85c3-40ad-8317-c409513042e5.png "Logo Title Text 1")
